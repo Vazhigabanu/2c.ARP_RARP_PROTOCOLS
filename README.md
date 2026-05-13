@@ -81,9 +81,10 @@ print("Logical Address",s.recv(1024).decode())
 ```
 
 ## OUPUT -RARP
-<img width="1856" height="1003" alt="Screenshot 2026-05-13 110301" src="https://github.com/user-attachments/assets/50fdd4bd-1562-4e37-ad5c-b65891d8c9d9" />
+<img width="1856" height="1003" alt="Screenshot 2026-05-13 110301" src="https://github.com/user-attachments/assets/19dff8d6-ddfa-4034-a381-7ebe65994426" />
 
-<img width="1865" height="1112" alt="Screenshot 2026-05-13 110324" src="https://github.com/user-attachments/assets/9c2809ad-d59b-42a8-a459-09255ebae139" />
+<img width="1865" height="1112" alt="Screenshot 2026-05-13 110324" src="https://github.com/user-attachments/assets/c3b82906-da67-41b4-9f4a-7b14ae0975fd" />
+
 
 
 ## RESULT
